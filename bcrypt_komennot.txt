@@ -1,0 +1,23 @@
+pi@raspberrypi:~/steca/flask_web/flaskblog $ python
+Python 3.7.3 (default, Dec 20 2019, 18:57:59)
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import flask_bcrypt import Bcrypt
+  File "<stdin>", line 1
+    import flask_bcrypt import Bcrypt
+                             ^
+SyntaxError: invalid syntax
+>>> from flask_bcrypt import Bcrypt
+>>> bcrypt = Bcrypt()
+>>> bcrypt.generate_password_hash('testing')
+b'$2b$12$T/SaK.w8t.0u/3y2szBauuMGic0P0MBjvNG2xGPPd1Iu6QBNcXyGO'
+>>> bcrypt.generate_password_hash('testing').decode('utf-8')
+'$2b$12$xrjHH..lNRwYeZ3yBEQdhe37PfTaPpRICvXJe4d1PpFB11JW7.75e'
+>>> bcrypt.generate_password_hash('testing').decode('utf-8')
+'$2b$12$8Hx9ev2.v2B7j1m3JhmbZOV//q.q5QABrjLwx.5EhzgliSRDwvDi.'
+>>> hashed_pw = bcrypt.generate_password_hash('testing').decode('utf-8')
+>>> bcrypt.check_password_hash(hashed_pw, 'password')
+False
+>>> bcrypt.check_password_hash(hashed_pw, 'testing')
+True
+

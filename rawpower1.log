@@ -1,0 +1,10 @@
+2020-04-14 23:02:20,282 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:02:30,301 - RAWPOWER - INFO - Whaat: Something Else HTTPConnectionPool(host='192.168.10.59', port=80): Read timed out. (read timeout=3)
+2020-04-14 23:02:37,326 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:02:46,239 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:02:55,224 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:03:04,210 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:03:11,726 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:03:18,745 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:03:29,670 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml
+2020-04-14 23:03:38,655 - RAWPOWER - INFO - Whaat: Something Else 404 Client Error: Not found for url: http://192.168.10.59/measurementss.xml

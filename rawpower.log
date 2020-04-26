@@ -1,0 +1,510 @@
+2020-04-26 12:01:44,777 - RAWPOWER - INFO - Teho nyt: 1573 Counter1: 0
+2020-04-26 12:01:44,779 - RAWPOWER - INFO - Alustusarvot -  Teho on: 1000, Start on: 11, Stop on: 17
+2020-04-26 12:01:55,049 - RAWPOWER - INFO - Teho nyt: 1549 Counter1: 1
+2020-04-26 12:02:05,461 - RAWPOWER - INFO - Teho nyt: 1550 Counter1: 2
+2020-04-26 12:02:15,758 - RAWPOWER - INFO - Teho nyt: 1486 Counter1: 3
+2020-04-26 12:02:25,976 - RAWPOWER - INFO - Teho nyt: 1407 Counter1: 4
+2020-04-26 12:02:36,248 - RAWPOWER - INFO - Teho nyt: 1364 Counter1: 5
+2020-04-26 12:02:36,250 - RAWPOWER - INFO - Vastus päällä, 0 minutes
+2020-04-26 12:03:36,301 - RAWPOWER - INFO - Uudet arvot Teho on: 2000, Start on: 14, Stop on: 17
+2020-04-26 12:03:38,680 - RAWPOWER - INFO - Teho nyt: 1313 Counter1: 6
+2020-04-26 12:03:39,279 - RAWPOWER - INFO - Email has been sent to ai@iki.fi
+2020-04-26 12:08:39,658 - RAWPOWER - INFO - Teho nyt: 1549 Counter1: 6
+2020-04-26 12:13:40,993 - RAWPOWER - INFO - Teho nyt: 1372 Counter1: 6
+2020-04-26 12:18:41,275 - RAWPOWER - INFO - Teho nyt: 1919 Counter1: 6
+2020-04-26 12:23:41,637 - RAWPOWER - INFO - Teho nyt: 2032 Counter1: 6
+2020-04-26 12:28:43,934 - RAWPOWER - INFO - Teho nyt: 1399 Counter1: 6
+2020-04-26 12:33:44,242 - RAWPOWER - INFO - Teho nyt: 1991 Counter1: 6
+2020-04-26 12:38:46,611 - RAWPOWER - INFO - Teho nyt: 2383 Counter1: 6
+2020-04-26 12:43:46,888 - RAWPOWER - INFO - Teho nyt: 2049 Counter1: 6
+2020-04-26 12:48:48,769 - RAWPOWER - INFO - Teho nyt: 1505 Counter1: 6
+2020-04-26 12:53:49,141 - RAWPOWER - INFO - Teho nyt: 1941 Counter1: 6
+2020-04-26 12:58:49,466 - RAWPOWER - INFO - Teho nyt: 1300 Counter1: 6
+2020-04-26 13:03:49,804 - RAWPOWER - INFO - Teho nyt: 780 Counter1: 6
+2020-04-26 13:08:50,189 - RAWPOWER - INFO - Teho nyt: 958 Counter1: 6
+2020-04-26 13:13:50,496 - RAWPOWER - INFO - Teho nyt: 1379 Counter1: 6
+2020-04-26 13:18:52,858 - RAWPOWER - INFO - Teho nyt: 2362 Counter1: 6
+2020-04-26 13:23:53,248 - RAWPOWER - INFO - Teho nyt: 669 Counter1: 6
+2020-04-26 13:28:53,555 - RAWPOWER - INFO - Teho nyt: 712 Counter1: 6
+2020-04-26 13:33:55,852 - RAWPOWER - INFO - Teho nyt: 866 Counter1: 6
+2020-04-26 13:38:58,148 - RAWPOWER - INFO - Teho nyt: 1005 Counter1: 6
+2020-04-26 13:43:58,505 - RAWPOWER - INFO - Teho nyt: 1070 Counter1: 6
+2020-04-26 13:48:58,812 - RAWPOWER - INFO - Teho nyt: 1001 Counter1: 6
+2020-04-26 13:53:59,176 - RAWPOWER - INFO - Teho nyt: 943 Counter1: 6
+2020-04-26 13:59:01,534 - RAWPOWER - INFO - Teho nyt: 991 Counter1: 6
+2020-04-26 14:04:01,835 - RAWPOWER - INFO - Teho nyt: 1045 Counter1: 6
+2020-04-26 14:04:01,836 - RAWPOWER - INFO - Uudet arvot Teho on: 1000, Start on: 14, Stop on: 17
+2020-04-26 14:05:01,897 - RAWPOWER - INFO - Today ON: 1 minutes
+2020-04-26 14:05:02,104 - RAWPOWER - INFO - Teho nyt: 1060 Counter1: 6
+2020-04-26 14:05:02,106 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:06:02,415 - RAWPOWER - INFO - Teho nyt: 1074 Counter1: 6
+2020-04-26 14:06:02,416 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:07:02,677 - RAWPOWER - INFO - Teho nyt: 1092 Counter1: 6
+2020-04-26 14:07:02,679 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:08:03,019 - RAWPOWER - INFO - Teho nyt: 1114 Counter1: 6
+2020-04-26 14:08:03,021 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:09:03,420 - RAWPOWER - INFO - Teho nyt: 1141 Counter1: 6
+2020-04-26 14:09:03,421 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:10:03,836 - RAWPOWER - INFO - Teho nyt: 1166 Counter1: 6
+2020-04-26 14:10:03,837 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:11:04,220 - RAWPOWER - INFO - Teho nyt: 1186 Counter1: 6
+2020-04-26 14:11:04,222 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:12:04,542 - RAWPOWER - INFO - Teho nyt: 1198 Counter1: 6
+2020-04-26 14:12:04,544 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:13:04,878 - RAWPOWER - INFO - Teho nyt: 1203 Counter1: 6
+2020-04-26 14:13:04,880 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:14:05,231 - RAWPOWER - INFO - Teho nyt: 1199 Counter1: 6
+2020-04-26 14:14:05,233 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:15:05,485 - RAWPOWER - INFO - Teho nyt: 1187 Counter1: 6
+2020-04-26 14:15:05,486 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:16:05,889 - RAWPOWER - INFO - Teho nyt: 1172 Counter1: 6
+2020-04-26 14:16:05,891 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:17:06,214 - RAWPOWER - INFO - Teho nyt: 1163 Counter1: 6
+2020-04-26 14:17:06,216 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:18:06,481 - RAWPOWER - INFO - Teho nyt: 1158 Counter1: 6
+2020-04-26 14:18:06,483 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:19:06,735 - RAWPOWER - INFO - Teho nyt: 1148 Counter1: 6
+2020-04-26 14:19:06,736 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:20:06,989 - RAWPOWER - INFO - Teho nyt: 1146 Counter1: 6
+2020-04-26 14:20:06,990 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:21:07,295 - RAWPOWER - INFO - Teho nyt: 1143 Counter1: 6
+2020-04-26 14:21:07,297 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:22:07,632 - RAWPOWER - INFO - Teho nyt: 1126 Counter1: 6
+2020-04-26 14:22:07,634 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:23:07,953 - RAWPOWER - INFO - Teho nyt: 1083 Counter1: 6
+2020-04-26 14:23:07,955 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:24:08,268 - RAWPOWER - INFO - Teho nyt: 1027 Counter1: 6
+2020-04-26 14:24:08,270 - RAWPOWER - INFO - Vastus päällä, 1 minutes
+2020-04-26 14:25:08,486 - RAWPOWER - INFO - Teho nyt: 964 Counter1: 6
+2020-04-26 14:26:08,531 - RAWPOWER - INFO - Today ON: 2 minutes
+2020-04-26 14:26:08,775 - RAWPOWER - INFO - Teho nyt: 907 Counter1: 6
+2020-04-26 14:27:08,781 - RAWPOWER - INFO - Today ON: 3 minutes
+2020-04-26 14:27:08,990 - RAWPOWER - INFO - Teho nyt: 861 Counter1: 6
+2020-04-26 14:28:09,031 - RAWPOWER - INFO - Today ON: 4 minutes
+2020-04-26 14:28:09,292 - RAWPOWER - INFO - Teho nyt: 828 Counter1: 6
+2020-04-26 14:29:09,354 - RAWPOWER - INFO - Today ON: 5 minutes
+2020-04-26 14:29:09,634 - RAWPOWER - INFO - Teho nyt: 799 Counter1: 6
+2020-04-26 14:30:09,695 - RAWPOWER - INFO - Today ON: 6 minutes
+2020-04-26 14:30:09,959 - RAWPOWER - INFO - Teho nyt: 771 Counter1: 6
+2020-04-26 14:30:09,961 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:31:10,285 - RAWPOWER - INFO - Teho nyt: 755 Counter1: 0
+2020-04-26 14:31:10,287 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:32:10,625 - RAWPOWER - INFO - Teho nyt: 758 Counter1: 0
+2020-04-26 14:32:10,627 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:33:12,939 - RAWPOWER - INFO - Teho nyt: 778 Counter1: 0
+2020-04-26 14:33:12,940 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:34:13,264 - RAWPOWER - INFO - Teho nyt: 801 Counter1: 0
+2020-04-26 14:34:13,265 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:35:13,585 - RAWPOWER - INFO - Teho nyt: 822 Counter1: 0
+2020-04-26 14:35:13,587 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:36:13,908 - RAWPOWER - INFO - Teho nyt: 840 Counter1: 0
+2020-04-26 14:36:13,909 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:37:14,235 - RAWPOWER - INFO - Teho nyt: 848 Counter1: 0
+2020-04-26 14:37:14,236 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:38:14,526 - RAWPOWER - INFO - Teho nyt: 840 Counter1: 0
+2020-04-26 14:38:14,528 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:39:14,795 - RAWPOWER - INFO - Teho nyt: 819 Counter1: 0
+2020-04-26 14:39:14,796 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:40:15,132 - RAWPOWER - INFO - Teho nyt: 794 Counter1: 0
+2020-04-26 14:40:15,133 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:41:15,479 - RAWPOWER - INFO - Teho nyt: 723 Counter1: 0
+2020-04-26 14:41:15,480 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:42:15,750 - RAWPOWER - INFO - Teho nyt: 757 Counter1: 0
+2020-04-26 14:42:15,752 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:43:16,062 - RAWPOWER - INFO - Teho nyt: 742 Counter1: 0
+2020-04-26 14:43:16,063 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:44:16,327 - RAWPOWER - INFO - Teho nyt: 725 Counter1: 0
+2020-04-26 14:44:16,328 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:45:16,645 - RAWPOWER - INFO - Teho nyt: 711 Counter1: 0
+2020-04-26 14:45:16,647 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:46:16,913 - RAWPOWER - INFO - Teho nyt: 705 Counter1: 0
+2020-04-26 14:46:16,915 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:47:17,229 - RAWPOWER - INFO - Teho nyt: 568 Counter1: 0
+2020-04-26 14:47:17,230 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:48:17,507 - RAWPOWER - INFO - Teho nyt: 715 Counter1: 0
+2020-04-26 14:48:17,509 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:49:17,834 - RAWPOWER - INFO - Teho nyt: 730 Counter1: 0
+2020-04-26 14:49:17,835 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:50:18,131 - RAWPOWER - INFO - Teho nyt: 761 Counter1: 0
+2020-04-26 14:50:18,132 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:51:18,345 - RAWPOWER - INFO - Teho nyt: 805 Counter1: 0
+2020-04-26 14:51:18,346 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:52:18,611 - RAWPOWER - INFO - Teho nyt: 853 Counter1: 0
+2020-04-26 14:52:18,613 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:53:18,877 - RAWPOWER - INFO - Teho nyt: 793 Counter1: 0
+2020-04-26 14:53:18,879 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:54:19,222 - RAWPOWER - INFO - Teho nyt: 940 Counter1: 0
+2020-04-26 14:54:19,224 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:55:19,535 - RAWPOWER - INFO - Teho nyt: 977 Counter1: 0
+2020-04-26 14:55:19,537 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 14:56:19,856 - RAWPOWER - INFO - Teho nyt: 1007 Counter1: 0
+2020-04-26 14:56:30,072 - RAWPOWER - INFO - Teho nyt: 1012 Counter1: 1
+2020-04-26 14:56:40,346 - RAWPOWER - INFO - Teho nyt: 1016 Counter1: 2
+2020-04-26 14:56:50,561 - RAWPOWER - INFO - Teho nyt: 1021 Counter1: 3
+2020-04-26 14:57:00,834 - RAWPOWER - INFO - Teho nyt: 1026 Counter1: 4
+2020-04-26 14:57:11,052 - RAWPOWER - INFO - Teho nyt: 1030 Counter1: 5
+2020-04-26 14:57:11,054 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 14:58:11,115 - RAWPOWER - INFO - Uudet arvot Teho on: 800, Start on: 14, Stop on: 17
+2020-04-26 14:58:11,386 - RAWPOWER - INFO - Teho nyt: 1053 Counter1: 6
+2020-04-26 14:58:11,392 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 14:59:11,727 - RAWPOWER - INFO - Teho nyt: 1071 Counter1: 6
+2020-04-26 14:59:11,728 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:00:12,052 - RAWPOWER - INFO - Teho nyt: 1082 Counter1: 6
+2020-04-26 15:00:12,053 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:01:12,319 - RAWPOWER - INFO - Teho nyt: 1107 Counter1: 6
+2020-04-26 15:01:12,321 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:02:12,587 - RAWPOWER - INFO - Teho nyt: 1130 Counter1: 6
+2020-04-26 15:02:12,588 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:03:12,884 - RAWPOWER - INFO - Teho nyt: 1151 Counter1: 6
+2020-04-26 15:03:12,885 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:04:13,205 - RAWPOWER - INFO - Teho nyt: 1162 Counter1: 6
+2020-04-26 15:04:13,207 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:05:13,519 - RAWPOWER - INFO - Teho nyt: 1164 Counter1: 6
+2020-04-26 15:05:13,520 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:06:13,843 - RAWPOWER - INFO - Teho nyt: 1163 Counter1: 6
+2020-04-26 15:06:13,844 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:07:14,164 - RAWPOWER - INFO - Teho nyt: 1163 Counter1: 6
+2020-04-26 15:07:14,166 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:08:14,429 - RAWPOWER - INFO - Teho nyt: 1171 Counter1: 6
+2020-04-26 15:08:14,431 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:09:14,696 - RAWPOWER - INFO - Teho nyt: 1185 Counter1: 6
+2020-04-26 15:09:14,698 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:10:14,963 - RAWPOWER - INFO - Teho nyt: 1197 Counter1: 6
+2020-04-26 15:10:14,965 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:11:15,235 - RAWPOWER - INFO - Teho nyt: 1195 Counter1: 6
+2020-04-26 15:11:15,236 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:12:15,543 - RAWPOWER - INFO - Teho nyt: 1181 Counter1: 6
+2020-04-26 15:12:15,545 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:13:15,882 - RAWPOWER - INFO - Teho nyt: 1174 Counter1: 6
+2020-04-26 15:13:15,883 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:14:16,207 - RAWPOWER - INFO - Teho nyt: 1178 Counter1: 6
+2020-04-26 15:14:16,209 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:15:16,533 - RAWPOWER - INFO - Teho nyt: 1191 Counter1: 6
+2020-04-26 15:15:16,534 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:16:16,800 - RAWPOWER - INFO - Teho nyt: 1203 Counter1: 6
+2020-04-26 15:16:16,801 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:17:17,067 - RAWPOWER - INFO - Teho nyt: 1208 Counter1: 6
+2020-04-26 15:17:17,068 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:18:17,333 - RAWPOWER - INFO - Teho nyt: 1207 Counter1: 6
+2020-04-26 15:18:17,334 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:19:17,654 - RAWPOWER - INFO - Teho nyt: 1206 Counter1: 6
+2020-04-26 15:19:17,655 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:20:17,974 - RAWPOWER - INFO - Teho nyt: 1205 Counter1: 6
+2020-04-26 15:20:17,975 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:21:18,297 - RAWPOWER - INFO - Teho nyt: 1205 Counter1: 6
+2020-04-26 15:21:18,298 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:22:18,621 - RAWPOWER - INFO - Teho nyt: 1208 Counter1: 6
+2020-04-26 15:22:18,623 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:23:18,944 - RAWPOWER - INFO - Teho nyt: 1215 Counter1: 6
+2020-04-26 15:23:18,945 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:24:19,265 - RAWPOWER - INFO - Teho nyt: 1223 Counter1: 6
+2020-04-26 15:24:19,267 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:25:19,474 - RAWPOWER - INFO - Teho nyt: 1232 Counter1: 6
+2020-04-26 15:25:19,475 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:26:19,739 - RAWPOWER - INFO - Teho nyt: 1245 Counter1: 6
+2020-04-26 15:26:19,741 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:27:20,040 - RAWPOWER - INFO - Teho nyt: 1263 Counter1: 6
+2020-04-26 15:27:20,042 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:28:20,466 - RAWPOWER - INFO - Teho nyt: 1282 Counter1: 6
+2020-04-26 15:28:20,468 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:29:20,786 - RAWPOWER - INFO - Teho nyt: 1297 Counter1: 6
+2020-04-26 15:29:20,787 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:30:21,083 - RAWPOWER - INFO - Teho nyt: 1311 Counter1: 6
+2020-04-26 15:30:21,084 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:31:21,379 - RAWPOWER - INFO - Teho nyt: 1324 Counter1: 6
+2020-04-26 15:31:21,380 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:32:21,704 - RAWPOWER - INFO - Teho nyt: 1342 Counter1: 6
+2020-04-26 15:32:21,705 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:33:22,024 - RAWPOWER - INFO - Teho nyt: 1367 Counter1: 6
+2020-04-26 15:33:22,026 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:34:22,350 - RAWPOWER - INFO - Teho nyt: 1400 Counter1: 6
+2020-04-26 15:34:22,351 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:35:22,615 - RAWPOWER - INFO - Teho nyt: 1433 Counter1: 6
+2020-04-26 15:35:22,616 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:36:22,825 - RAWPOWER - INFO - Teho nyt: 1455 Counter1: 6
+2020-04-26 15:36:22,827 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:37:23,147 - RAWPOWER - INFO - Teho nyt: 1461 Counter1: 6
+2020-04-26 15:37:23,148 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:38:23,467 - RAWPOWER - INFO - Teho nyt: 1460 Counter1: 6
+2020-04-26 15:38:23,468 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:39:23,786 - RAWPOWER - INFO - Teho nyt: 1468 Counter1: 6
+2020-04-26 15:39:23,788 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:40:24,112 - RAWPOWER - INFO - Teho nyt: 1481 Counter1: 6
+2020-04-26 15:40:24,113 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:41:24,434 - RAWPOWER - INFO - Teho nyt: 1482 Counter1: 6
+2020-04-26 15:41:24,436 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:42:24,744 - RAWPOWER - INFO - Teho nyt: 1472 Counter1: 6
+2020-04-26 15:42:24,745 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:43:25,009 - RAWPOWER - INFO - Teho nyt: 1467 Counter1: 6
+2020-04-26 15:43:25,010 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:44:25,275 - RAWPOWER - INFO - Teho nyt: 1467 Counter1: 6
+2020-04-26 15:44:25,276 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:45:25,624 - RAWPOWER - INFO - Teho nyt: 1468 Counter1: 6
+2020-04-26 15:45:25,626 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:46:25,890 - RAWPOWER - INFO - Teho nyt: 1463 Counter1: 6
+2020-04-26 15:46:25,891 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:47:26,188 - RAWPOWER - INFO - Teho nyt: 1433 Counter1: 6
+2020-04-26 15:47:26,189 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:48:26,506 - RAWPOWER - INFO - Teho nyt: 1385 Counter1: 6
+2020-04-26 15:48:26,507 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:49:26,782 - RAWPOWER - INFO - Teho nyt: 1341 Counter1: 6
+2020-04-26 15:49:26,783 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:50:27,110 - RAWPOWER - INFO - Teho nyt: 1285 Counter1: 6
+2020-04-26 15:50:27,112 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:51:27,436 - RAWPOWER - INFO - Teho nyt: 1217 Counter1: 6
+2020-04-26 15:51:27,437 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:52:27,761 - RAWPOWER - INFO - Teho nyt: 1145 Counter1: 6
+2020-04-26 15:52:27,762 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:53:28,085 - RAWPOWER - INFO - Teho nyt: 1077 Counter1: 6
+2020-04-26 15:53:28,086 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:54:28,355 - RAWPOWER - INFO - Teho nyt: 1023 Counter1: 6
+2020-04-26 15:54:28,356 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:55:28,682 - RAWPOWER - INFO - Teho nyt: 982 Counter1: 6
+2020-04-26 15:55:28,684 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:56:29,011 - RAWPOWER - INFO - Teho nyt: 940 Counter1: 6
+2020-04-26 15:56:29,012 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:57:29,277 - RAWPOWER - INFO - Teho nyt: 887 Counter1: 6
+2020-04-26 15:57:29,279 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:58:29,556 - RAWPOWER - INFO - Teho nyt: 825 Counter1: 6
+2020-04-26 15:58:29,558 - RAWPOWER - INFO - Vastus päällä, 6 minutes
+2020-04-26 15:59:29,866 - RAWPOWER - INFO - Teho nyt: 760 Counter1: 6
+2020-04-26 16:00:29,889 - RAWPOWER - INFO - Today ON: 7 minutes
+2020-04-26 16:00:30,153 - RAWPOWER - INFO - Teho nyt: 705 Counter1: 6
+2020-04-26 16:01:30,215 - RAWPOWER - INFO - Today ON: 8 minutes
+2020-04-26 16:01:30,498 - RAWPOWER - INFO - Teho nyt: 659 Counter1: 6
+2020-04-26 16:02:30,560 - RAWPOWER - INFO - Today ON: 9 minutes
+2020-04-26 16:02:30,808 - RAWPOWER - INFO - Teho nyt: 629 Counter1: 6
+2020-04-26 16:03:30,869 - RAWPOWER - INFO - Today ON: 10 minutes
+2020-04-26 16:03:31,150 - RAWPOWER - INFO - Teho nyt: 610 Counter1: 6
+2020-04-26 16:04:31,211 - RAWPOWER - INFO - Today ON: 11 minutes
+2020-04-26 16:04:31,473 - RAWPOWER - INFO - Teho nyt: 597 Counter1: 6
+2020-04-26 16:04:31,475 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:05:31,801 - RAWPOWER - INFO - Teho nyt: 583 Counter1: 0
+2020-04-26 16:05:31,802 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:06:33,819 - RAWPOWER - INFO - Teho nyt: 561 Counter1: 0
+2020-04-26 16:06:33,820 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:07:34,167 - RAWPOWER - INFO - Teho nyt: 539 Counter1: 0
+2020-04-26 16:07:34,169 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:08:34,442 - RAWPOWER - INFO - Teho nyt: 521 Counter1: 0
+2020-04-26 16:08:34,443 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:09:34,775 - RAWPOWER - INFO - Teho nyt: 506 Counter1: 0
+2020-04-26 16:09:34,776 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:10:35,058 - RAWPOWER - INFO - Teho nyt: 494 Counter1: 0
+2020-04-26 16:10:35,060 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:11:35,343 - RAWPOWER - INFO - Teho nyt: 466 Counter1: 0
+2020-04-26 16:11:35,346 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:12:35,617 - RAWPOWER - INFO - Teho nyt: 589 Counter1: 0
+2020-04-26 16:12:35,619 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:13:35,885 - RAWPOWER - INFO - Teho nyt: 698 Counter1: 0
+2020-04-26 16:13:35,886 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:14:36,207 - RAWPOWER - INFO - Teho nyt: 817 Counter1: 0
+2020-04-26 16:14:46,477 - RAWPOWER - INFO - Teho nyt: 834 Counter1: 1
+2020-04-26 16:14:56,693 - RAWPOWER - INFO - Teho nyt: 850 Counter1: 2
+2020-04-26 16:15:06,968 - RAWPOWER - INFO - Teho nyt: 866 Counter1: 3
+2020-04-26 16:15:17,215 - RAWPOWER - INFO - Teho nyt: 880 Counter1: 4
+2020-04-26 16:15:27,509 - RAWPOWER - INFO - Teho nyt: 897 Counter1: 5
+2020-04-26 16:15:27,511 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:16:27,832 - RAWPOWER - INFO - Teho nyt: 967 Counter1: 6
+2020-04-26 16:16:27,833 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:17:28,155 - RAWPOWER - INFO - Teho nyt: 1010 Counter1: 6
+2020-04-26 16:17:28,156 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:18:28,486 - RAWPOWER - INFO - Teho nyt: 1022 Counter1: 6
+2020-04-26 16:18:28,487 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:19:28,809 - RAWPOWER - INFO - Teho nyt: 1016 Counter1: 6
+2020-04-26 16:19:28,811 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:20:29,134 - RAWPOWER - INFO - Teho nyt: 999 Counter1: 6
+2020-04-26 16:20:29,135 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:21:29,459 - RAWPOWER - INFO - Teho nyt: 982 Counter1: 6
+2020-04-26 16:21:29,460 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:22:29,726 - RAWPOWER - INFO - Teho nyt: 962 Counter1: 6
+2020-04-26 16:22:29,728 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:23:30,023 - RAWPOWER - INFO - Teho nyt: 938 Counter1: 6
+2020-04-26 16:23:30,024 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:24:30,296 - RAWPOWER - INFO - Teho nyt: 911 Counter1: 6
+2020-04-26 16:24:30,298 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:25:30,634 - RAWPOWER - INFO - Teho nyt: 883 Counter1: 6
+2020-04-26 16:25:30,635 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:26:30,961 - RAWPOWER - INFO - Teho nyt: 856 Counter1: 6
+2020-04-26 16:26:30,963 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:27:33,189 - RAWPOWER - INFO - Teho nyt: 827 Counter1: 6
+2020-04-26 16:27:33,190 - RAWPOWER - INFO - Vastus päällä, 11 minutes
+2020-04-26 16:28:33,454 - RAWPOWER - INFO - Teho nyt: 790 Counter1: 6
+2020-04-26 16:29:33,516 - RAWPOWER - INFO - Today ON: 12 minutes
+2020-04-26 16:29:33,724 - RAWPOWER - INFO - Teho nyt: 744 Counter1: 6
+2020-04-26 16:30:33,786 - RAWPOWER - INFO - Today ON: 13 minutes
+2020-04-26 16:30:34,034 - RAWPOWER - INFO - Teho nyt: 697 Counter1: 6
+2020-04-26 16:31:34,091 - RAWPOWER - INFO - Today ON: 14 minutes
+2020-04-26 16:31:34,348 - RAWPOWER - INFO - Teho nyt: 653 Counter1: 6
+2020-04-26 16:32:34,410 - RAWPOWER - INFO - Today ON: 15 minutes
+2020-04-26 16:32:34,668 - RAWPOWER - INFO - Teho nyt: 619 Counter1: 6
+2020-04-26 16:33:34,691 - RAWPOWER - INFO - Today ON: 16 minutes
+2020-04-26 16:33:34,896 - RAWPOWER - INFO - Teho nyt: 593 Counter1: 6
+2020-04-26 16:33:34,897 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:34:35,245 - RAWPOWER - INFO - Teho nyt: 575 Counter1: 0
+2020-04-26 16:34:35,246 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:35:35,555 - RAWPOWER - INFO - Teho nyt: 561 Counter1: 0
+2020-04-26 16:35:35,556 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:36:35,801 - RAWPOWER - INFO - Teho nyt: 551 Counter1: 0
+2020-04-26 16:36:35,802 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:37:36,080 - RAWPOWER - INFO - Teho nyt: 546 Counter1: 0
+2020-04-26 16:37:36,081 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:38:38,138 - RAWPOWER - INFO - Teho nyt: 543 Counter1: 0
+2020-04-26 16:38:38,139 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:39:38,405 - RAWPOWER - INFO - Teho nyt: 538 Counter1: 0
+2020-04-26 16:39:38,406 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:40:38,686 - RAWPOWER - INFO - Teho nyt: 540 Counter1: 0
+2020-04-26 16:40:38,687 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:41:39,007 - RAWPOWER - INFO - Teho nyt: 542 Counter1: 0
+2020-04-26 16:41:39,008 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:42:39,328 - RAWPOWER - INFO - Teho nyt: 540 Counter1: 0
+2020-04-26 16:42:39,329 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:43:39,648 - RAWPOWER - INFO - Teho nyt: 533 Counter1: 0
+2020-04-26 16:43:39,650 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:44:39,957 - RAWPOWER - INFO - Teho nyt: 524 Counter1: 0
+2020-04-26 16:44:39,958 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:45:41,852 - RAWPOWER - INFO - Teho nyt: 521 Counter1: 0
+2020-04-26 16:45:41,853 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:46:42,173 - RAWPOWER - INFO - Teho nyt: 522 Counter1: 0
+2020-04-26 16:46:42,175 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:47:44,209 - RAWPOWER - INFO - Teho nyt: 526 Counter1: 0
+2020-04-26 16:47:44,211 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:48:44,534 - RAWPOWER - INFO - Teho nyt: 530 Counter1: 0
+2020-04-26 16:48:44,536 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:49:44,894 - RAWPOWER - INFO - Teho nyt: 536 Counter1: 0
+2020-04-26 16:49:44,895 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:50:45,194 - RAWPOWER - INFO - Teho nyt: 543 Counter1: 0
+2020-04-26 16:50:45,196 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:51:45,460 - RAWPOWER - INFO - Teho nyt: 548 Counter1: 0
+2020-04-26 16:51:45,462 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:52:45,675 - RAWPOWER - INFO - Teho nyt: 547 Counter1: 0
+2020-04-26 16:52:45,676 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:53:45,955 - RAWPOWER - INFO - Teho nyt: 524 Counter1: 0
+2020-04-26 16:53:45,957 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:54:46,275 - RAWPOWER - INFO - Teho nyt: 535 Counter1: 0
+2020-04-26 16:54:46,277 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:55:46,596 - RAWPOWER - INFO - Teho nyt: 537 Counter1: 0
+2020-04-26 16:55:46,597 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:56:46,916 - RAWPOWER - INFO - Teho nyt: 552 Counter1: 0
+2020-04-26 16:56:46,917 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:57:47,236 - RAWPOWER - INFO - Teho nyt: 565 Counter1: 0
+2020-04-26 16:57:47,237 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:58:47,527 - RAWPOWER - INFO - Teho nyt: 565 Counter1: 0
+2020-04-26 16:58:47,529 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 16:59:47,794 - RAWPOWER - INFO - Teho nyt: 554 Counter1: 0
+2020-04-26 16:59:47,795 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:00:48,116 - RAWPOWER - INFO - Teho nyt: 554 Counter1: 0
+2020-04-26 17:00:48,117 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:01:48,435 - RAWPOWER - INFO - Teho nyt: 549 Counter1: 0
+2020-04-26 17:01:48,437 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:02:48,772 - RAWPOWER - INFO - Teho nyt: 547 Counter1: 0
+2020-04-26 17:02:48,774 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:03:49,094 - RAWPOWER - INFO - Teho nyt: 546 Counter1: 0
+2020-04-26 17:03:49,095 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:04:49,418 - RAWPOWER - INFO - Teho nyt: 545 Counter1: 0
+2020-04-26 17:04:49,419 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:05:49,760 - RAWPOWER - INFO - Teho nyt: 537 Counter1: 0
+2020-04-26 17:05:49,761 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:06:50,026 - RAWPOWER - INFO - Teho nyt: 559 Counter1: 0
+2020-04-26 17:06:50,027 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:07:50,292 - RAWPOWER - INFO - Teho nyt: 587 Counter1: 0
+2020-04-26 17:07:50,293 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:08:50,614 - RAWPOWER - INFO - Teho nyt: 627 Counter1: 0
+2020-04-26 17:08:50,615 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:09:50,913 - RAWPOWER - INFO - Teho nyt: 662 Counter1: 0
+2020-04-26 17:09:50,914 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:10:51,178 - RAWPOWER - INFO - Teho nyt: 684 Counter1: 0
+2020-04-26 17:10:51,180 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:11:51,443 - RAWPOWER - INFO - Teho nyt: 690 Counter1: 0
+2020-04-26 17:11:51,445 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:12:51,710 - RAWPOWER - INFO - Teho nyt: 689 Counter1: 0
+2020-04-26 17:12:51,711 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:13:51,965 - RAWPOWER - INFO - Teho nyt: 684 Counter1: 0
+2020-04-26 17:13:51,966 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:14:52,288 - RAWPOWER - INFO - Teho nyt: 675 Counter1: 0
+2020-04-26 17:14:52,290 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:15:52,612 - RAWPOWER - INFO - Teho nyt: 665 Counter1: 0
+2020-04-26 17:15:52,614 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:16:52,886 - RAWPOWER - INFO - Teho nyt: 652 Counter1: 0
+2020-04-26 17:16:52,889 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:17:53,208 - RAWPOWER - INFO - Teho nyt: 625 Counter1: 0
+2020-04-26 17:17:53,210 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:18:53,527 - RAWPOWER - INFO - Teho nyt: 600 Counter1: 0
+2020-04-26 17:18:53,529 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:19:53,793 - RAWPOWER - INFO - Teho nyt: 556 Counter1: 0
+2020-04-26 17:19:53,795 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:20:54,059 - RAWPOWER - INFO - Teho nyt: 497 Counter1: 0
+2020-04-26 17:20:54,061 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:21:54,376 - RAWPOWER - INFO - Teho nyt: 432 Counter1: 0
+2020-04-26 17:21:54,378 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:22:54,691 - RAWPOWER - INFO - Teho nyt: 372 Counter1: 0
+2020-04-26 17:22:54,692 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:23:55,012 - RAWPOWER - INFO - Teho nyt: 320 Counter1: 0
+2020-04-26 17:23:55,013 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:24:55,311 - RAWPOWER - INFO - Teho nyt: 282 Counter1: 0
+2020-04-26 17:24:55,312 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:25:55,633 - RAWPOWER - INFO - Teho nyt: 258 Counter1: 0
+2020-04-26 17:25:55,635 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:26:55,900 - RAWPOWER - INFO - Teho nyt: 242 Counter1: 0
+2020-04-26 17:26:55,901 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:27:56,165 - RAWPOWER - INFO - Teho nyt: 238 Counter1: 0
+2020-04-26 17:27:56,166 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:28:56,473 - RAWPOWER - INFO - Teho nyt: 244 Counter1: 0
+2020-04-26 17:28:56,475 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:29:56,742 - RAWPOWER - INFO - Teho nyt: 258 Counter1: 0
+2020-04-26 17:29:56,744 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:30:57,058 - RAWPOWER - INFO - Teho nyt: 277 Counter1: 0
+2020-04-26 17:30:57,060 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:31:57,388 - RAWPOWER - INFO - Teho nyt: 282 Counter1: 0
+2020-04-26 17:31:57,389 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:32:57,712 - RAWPOWER - INFO - Teho nyt: 278 Counter1: 0
+2020-04-26 17:32:57,713 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:33:59,517 - RAWPOWER - INFO - Teho nyt: 279 Counter1: 0
+2020-04-26 17:33:59,518 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:34:59,865 - RAWPOWER - INFO - Teho nyt: 283 Counter1: 0
+2020-04-26 17:34:59,867 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:36:00,186 - RAWPOWER - INFO - Teho nyt: 287 Counter1: 0
+2020-04-26 17:36:00,187 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:37:00,509 - RAWPOWER - INFO - Teho nyt: 285 Counter1: 0
+2020-04-26 17:37:00,510 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:38:00,808 - RAWPOWER - INFO - Teho nyt: 279 Counter1: 0
+2020-04-26 17:38:00,810 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:39:01,082 - RAWPOWER - INFO - Teho nyt: 278 Counter1: 0
+2020-04-26 17:39:01,085 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:40:01,337 - RAWPOWER - INFO - Teho nyt: 281 Counter1: 0
+2020-04-26 17:40:01,338 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:41:01,669 - RAWPOWER - INFO - Teho nyt: 290 Counter1: 0
+2020-04-26 17:41:01,670 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:42:01,937 - RAWPOWER - INFO - Teho nyt: 298 Counter1: 0
+2020-04-26 17:42:01,939 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:43:02,260 - RAWPOWER - INFO - Teho nyt: 338 Counter1: 0
+2020-04-26 17:43:02,261 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:44:02,614 - RAWPOWER - INFO - Teho nyt: 357 Counter1: 0
+2020-04-26 17:44:02,616 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:45:02,959 - RAWPOWER - INFO - Teho nyt: 372 Counter1: 0
+2020-04-26 17:45:02,961 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:46:03,346 - RAWPOWER - INFO - Teho nyt: 424 Counter1: 0
+2020-04-26 17:46:03,347 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:47:03,747 - RAWPOWER - INFO - Teho nyt: 451 Counter1: 0
+2020-04-26 17:47:03,748 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:48:04,134 - RAWPOWER - INFO - Teho nyt: 475 Counter1: 0
+2020-04-26 17:48:04,136 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:49:04,580 - RAWPOWER - INFO - Teho nyt: 502 Counter1: 0
+2020-04-26 17:49:04,582 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:50:04,922 - RAWPOWER - INFO - Teho nyt: 529 Counter1: 0
+2020-04-26 17:50:04,924 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:51:05,251 - RAWPOWER - INFO - Teho nyt: 560 Counter1: 0
+2020-04-26 17:51:05,253 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:52:05,577 - RAWPOWER - INFO - Teho nyt: 590 Counter1: 0
+2020-04-26 17:52:05,579 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:53:05,850 - RAWPOWER - INFO - Teho nyt: 612 Counter1: 0
+2020-04-26 17:53:05,851 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:54:06,371 - RAWPOWER - INFO - Teho nyt: 625 Counter1: 0
+2020-04-26 17:54:06,374 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:55:10,205 - RAWPOWER - INFO - Teho nyt: 632 Counter1: 0
+2020-04-26 17:55:10,207 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:56:10,526 - RAWPOWER - INFO - Teho nyt: 632 Counter1: 0
+2020-04-26 17:56:10,528 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:57:10,785 - RAWPOWER - INFO - Teho nyt: 632 Counter1: 0
+2020-04-26 17:57:10,787 - RAWPOWER - INFO - Vastus pois päältä
+2020-04-26 17:58:12,844 - RAWPOWER - INFO - Teho nyt: 629 Counter1: 0
+2020-04-26 17:58:12,845 - RAWPOWER - INFO - Vastus pois päältä

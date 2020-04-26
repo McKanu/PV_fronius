@@ -1,0 +1,74 @@
+pi@raspberrypi:~/steca/flask_web $ python
+Python 3.7.3 (default, Dec 20 2019, 18:57:59)
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from flaskblog import db
+/usr/local/lib/python3.7/dist-packages/flask_sqlalchemy/__init__.py:835: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+
+CREATE A DATABASE:
+>>> db.create_all()
+>>> from flaskblog import User, Post
+>>> user_1 = User(username='Aki', email='aki.isokangas@elisanet.fi', password='password')
+>>> db.session.a
+db.session.add(        db.session.add_all(    db.session.autocommit  db.session.autoflush
+>>> db.session.add(user_1)
+>>> user_2 = User(username='Saana', email='saana.isokangas@elisanet.fi', password='password')
+>>> db.session.add(user_2)
+>>> db.session.commit()
+>>> User.query.all()
+[User('Aki', 'aki.isokangas@elisanet.fi', 'default.jpg'), User('Saana', 'saana.isokangas@elisanet.fi', 'default.jpg')]
+>>> User.query.first()
+User('Aki', 'aki.isokangas@elisanet.fi', 'default.jpg')
+>>> User.query.filter_by(username='Saana').all()
+[User('Saana', 'saana.isokangas@elisanet.fi', 'default.jpg')]
+>>> User.query.filter_by(username='Saana').first()
+User('Saana', 'saana.isokangas@elisanet.fi', 'default.jpg')
+>>> user = User.query.filter_by(username='Saana').first()
+>>> user
+User('Saana', 'saana.isokangas@elisanet.fi', 'default.jpg')
+>>> user.id
+2
+>>> user = User.query.get(1)
+>>> user
+User('Aki', 'aki.isokangas@elisanet.fi', 'default.jpg')
+>>> user.posts
+[]
+>>> user.id
+1
+>>> post_1 = Post(title='Blog 1', content='First Post Content!', user_id=user_id)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'user_id' is not defined
+>>> post_1 = Post(title='Blog 1', content='First Post Content!', user_id=user.id)
+>>> post_2 = Post(title='Blog 2', content='Second Post Content!', user_id=user.id)
+>>> db.se
+db.select(                db.selectinload(          db.session(
+db.selectin_polymorphic(  db.selectinload_all(      db.sessionmaker(
+>>> db.session.add(post_1)
+>>> db.session.add(post_2)
+>>> db.session.commit()
+>>> user.posts
+[Post('Blog 1', '2020-04-15 08:49:40.165167'), Post('Blog 2', '2020-04-15 08:49:40.167527')]
+>>> for post in user.posts:
+...     print(post.title)
+...
+Blog 1
+Blog 2
+>>> post = post.query.first()
+>>> post
+Post('Blog 1', '2020-04-15 08:49:40.165167')
+>>> post.user_id
+1
+>>> post.author
+User('Aki', 'aki.isokangas@elisanet.fi', 'default.jpg')
+
+DELETE A DATABASE:
+>>> db.drop_all()
+>>> db.create_all()
+>>> User.query.all()
+[]
+>>> Post.query.all()
+[]
+>>> Posts.query.all()
+

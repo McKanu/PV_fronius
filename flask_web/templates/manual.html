@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+{% block content %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-title">
+            {% for pin in pins %}
+            <p>The {{ pins[pin].name }}
+            {% if pins[pin].state == True %}
+               is currently off (<a class"mr-2" href="/{{pin}}/off">turn on</a>)
+            {% else %}
+               is currently on (<a class"mr-2" href="/{{pin}}/on">turn off</a>)
+            {% endif %}
+            </p>
+            {% endfor %}
+          </div>
+        </article>
+   {% if message %}
+   <h2 style="color:red;">{{ message }}</h2>
+   {% endif %}
+{% endblock content %}

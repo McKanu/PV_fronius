@@ -1,0 +1,48 @@
+VI:
+Select Visual block Ctrl-v
+then edit/replace selection
+:'<,'>s/\%V *//
+Ctrl-V + I after selection -> you can insert text that applies to all lines
+
+SCREEN:
+screen -list
+Uusi window: ^a c ; ^a A -> anna screenille nimi
+screen -ls
+screen -XS 14673 quit
+screen -ls
+Suspend: ^a z ja palautus screen -r
+Lockscreen: ^a 
+
+XMLSTARLET:
+xmlstarlet el -v http://192.168.10.59/measurements.xml |sed '/AC_Power.]/!d' | awk -F "'" '{print $2}'
+xmlstarlet el -v http://192.168.10.59/measurements.xml |sed '/AC_Power.]/!d' | sed 's/^.*Value=.//' | sed 's/. .*$//'
+xmlstarlet sel -t -e http://192.168.10.59/measurements.xml
+
+SYSTEMCTL:
+cd /etc/systemd/system
+https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
+https://www.freedesktop.org/software/systemd/man/systemd.service.html
+sudo systemctl enable application.service
+sudo systemctl disable application.service
+systemctl status application.service
+LISTING CURRENT UNITS:
+systemctl list-units
+EDIT:
+sudo systemctl edit nginx.service
+sudo systemctl daemon-reload
+
+RAWPOWER.SERVICE
+[Unit]
+Description=Raspower service for Raspberry PI RelayHat
+Documentation=http://192.168.10.53
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/steca/rawpower.py
+Restart=on-failure
+RestartSec=30
+Type=notify
+RuntimeDirectory=/home/pi/steca
+
+[Install]
+WantedBy=multi-user.target
+

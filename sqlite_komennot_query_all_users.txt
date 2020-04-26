@@ -1,0 +1,15 @@
+cd ~/steca/flask_web
+python
+
+from flaskblog.models import User
+User.query.all()
+
+pi@raspberrypi:~/steca/flask_web $ python
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from flaskblog.models import User
+/usr/local/lib/python3.7/dist-packages/flask_sqlalchemy/__init__.py:835: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+>>> User.query.all()
+[User('Aki', 'ai@iki.fi', '5f9e3b517ffa4326.jpg'), User('Saana', 'saana.isokangas@iki.fi', '339dc31a89d07752.jpg'), User('Sinnu', 'sinnu@iki.fi', 'fd7ad446796ca97c.JPG')]
+
