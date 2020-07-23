@@ -32,17 +32,17 @@ class LoginForm(FlaskForm):
     submit = SubmitField('Login')
 
 class UpdateForm(FlaskForm):
-    power = IntegerField('Alaraja ohjaukselle (W) (200-3000)',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
+    power = IntegerField('Alaraja ohjaukselle (W)',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
     start = IntegerField('Aloitusaika (1-23)',validators=[DataRequired(), NumberRange(min=1, max=23, message="Out of range")])
     stop = IntegerField('Lopetusaika (1-23)',validators=[DataRequired(), NumberRange(min=1, max=23, message="Out of range")])
     remember = BooleanField('Remember Me')
     submit = SubmitField('Update')
 
 class UpdateRaneForm(FlaskForm):
-    power = IntegerField('Alaraja Rele 1 (670W)',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
-    power1 = IntegerField('Alaraja Rele2 (1500W) ',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
-    power2 = IntegerField('Alaraja Rele1+Rele2 (2170W)',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
-    power3 = IntegerField('Alaraja Rele3 (3000W)',validators=[DataRequired(), NumberRange(min=200, max=3000, message="Out of range")])
+    power = IntegerField('Alaraja Rele1',validators=[DataRequired(), NumberRange(min=200, max=700, message="Out of range")])
+    power1 = IntegerField('Alaraja Rele2',validators=[DataRequired(), NumberRange(min=700, max=1400, message="Out of range")])
+    power2 = IntegerField('Alaraja Rele1+Rele2',validators=[DataRequired(), NumberRange(min=1400, max=2000, message="Out of range")])
+    power3 = IntegerField('Alaraja Rele2+Rele3',validators=[DataRequired(), NumberRange(min=2000, max=4000, message="Out of range")])
     start = IntegerField('Aloitusaika (1-23)',validators=[DataRequired(), NumberRange(min=1, max=23, message="Out of range")])
     stop = IntegerField('Lopetusaika (1-23)',validators=[DataRequired(), NumberRange(min=1, max=23, message="Out of range")])
     remember = BooleanField('Remember Me')

@@ -4,7 +4,7 @@
         <form method="POST" action="">
             {{ form.hidden_tag() }}
             <fieldset class="form-group">
-                <legend class="border-bottom mb-4">Modify Parameters</legend>
+                <legend class="border-bottom mb-4">Muokkaa Ohjausarvoja</legend>
                 <div class="form-group">
                     {{ form.power.label(class="form-control-label") }}
                     {% if form.power.errors %}
@@ -22,6 +22,54 @@
                     {% endif %}
                 </div>
                 <div class="form-group">
+                    {{ form.power1.label(class="form-control-label") }}
+                    {% if form.power1.errors %}
+                        {{ form.power1(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.power1.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.power1(class="form-control form-control-lg") }} 
+                        <small class="text-muted">
+                        <a class"ml-2" style="color:red;">Nyt: {{ power1 }}W<a>
+                        </small>
+                    {% endif %}
+                </div>
+                <div class="form-group">
+                    {{ form.power2.label(class="form-control-label") }}
+                    {% if form.power2.errors %}
+                        {{ form.power2(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.power2.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.power2(class="form-control form-control-lg") }} 
+                        <small class="text-muted">
+                        <a class"ml-2" style="color:red;">Nyt: {{ power2 }}W<a>
+                        </small>
+                    {% endif %}
+                </div>
+                <div class="form-group">
+                    {{ form.power3.label(class="form-control-label") }}
+                    {% if form.power3.errors %}
+                        {{ form.power3(class="form-control form-control-lg is-invalid") }}
+                        <div class="invalid-feedback">
+                            {% for error in form.power3.errors %}
+                                <span>{{ error }}</span>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        {{ form.power3(class="form-control form-control-lg") }} 
+                        <small class="text-muted">
+                        <a class"ml-2" style="color:red;">Nyt: {{ power3 }}W<a>
+                        </small>
+                    {% endif %}
+                </div>                                                                                   <div class="form-group">
+                <div>
                     {{ form.start.label(class="form-control-label") }}
                     {% if form.start.errors %}
                         {{ form.start(class="form-control form-control-lg is-invalid") }}
@@ -63,7 +111,10 @@
         <small class="text-muted">
             {% if message %}
             <a class"ml-2" style="color:red;">{{ message }}<a>
-            <br><a class"ml-2" style="color:red;">Ohjausteho: {{ power }}W</a>
+            <br><a class"ml-2" style="color:red;">Ohjausteho 1: {{ power }}W</a>
+            <br><a class"ml-2" style="color:red;">Ohjausteho 2: {{ power1 }}W</a>
+            <br><a class"ml-2" style="color:red;">Ohjausteho 2: {{ power2 }}W</a>
+            <br><a class"ml-2" style="color:red;">Ohjausteho 3: {{ power3 }}W</a>
             <br><a class"ml-2" style="color:red;">Aloitusaika kello: {{ start }}.00</a>
             <br><a class"ml-2" style="color:red;">Lopetusaika kello: {{ stop }}.00 </a>
             {% endif %}

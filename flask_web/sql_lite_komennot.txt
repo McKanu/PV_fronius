@@ -1,0 +1,8 @@
+pi@raspberrypi:~/steca/flask_web $ python3
+Python 3.7.3 (default, Dec 20 2019, 18:57:59)
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from flaskblog.models import User
+>>> User.query.all()
+[User('Aki', 'ai@iki.fi', '5f9e3b517ffa4326.jpg'), User('Saana', 'saana.isokangas@iki.fi', '339dc31a89d07752.jpg'), User('Sinnu', 'sinnu@iki.fi', 'fd7ad446796ca97c.JPG')]
+

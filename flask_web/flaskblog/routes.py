@@ -3,7 +3,7 @@ import secrets
 from PIL import Image
 from flaskblog import app, db, bcrypt
 from flaskblog.models import User, Post
-from flaskblog.forms import RegistrationForm, LoginForm, UpdateForm, UpdateAccountForm
+from flaskblog.forms import RegistrationForm, LoginForm, UpdateAccountForm, UpdateRaneForm
 from flask import Flask, render_template, url_for, flash, redirect, request
 from flask_login import login_user, current_user, logout_user, login_required
 from datetime import datetime
@@ -20,17 +20,23 @@ GPIO.setwarnings(False)
 posts = [
     {
         'author': 'Aki Isokangas',
-        'title': 'Blog Post -13042020- ',
+        'title': 'Info',
+        'content': 'Muuttujien automaattinen lataus ei näytä toimivan vielä',
+        'date_posted': 'April 28, 2020'
+    },
+    {
+        'author': 'Aki Isokangas',
+        'title': 'Blog Post 28042020',
+        'content': 'Lisätty ohjaus kaikille kolmelle releelle tänään',
+        'date_posted': 'April 28, 2020'
+    },
+    {
+        'author': 'Aki Isokangas',
+        'title': 'Blog Post 13042020',
         'content': 'Lisätty muuttujien päivitys "Modify"-linkin taakse.\
                     Lisätty Teho yläpalkkiin.\
                     Lisätty Virheentarkistus teholle',
         'date_posted': 'April 13, 2020'
-    },
-    {
-        'author': 'Jane Doe',
-        'title': 'Blog Post 2',
-        'content': 'Second post content',
-        'date_posted': 'April 21, 2018'
     }
 ]
 
@@ -38,6 +44,9 @@ MYDICT = {
     "varfile": '/home/pi/steca/variables.json',
     "varfile1": '/home/pi/steca/power.json',
     "power": '',
+    "power1": '',
+    "power2": '',
+    "power3": '',
     "teho": '' ,
     "power": '',
     "start": '',
@@ -50,14 +59,17 @@ with open(MYDICT["varfile1"]) as f1:
     varfile1 = json.load(f1)
 
 MYDICT["power"] = int(variables["power"])
+MYDICT["power1"] = int(variables["power1"])
+MYDICT["power2"] = int(variables["power2"])
+MYDICT["power3"] = int(variables["power3"])
 MYDICT["start"] = int(variables["start"])
 MYDICT["stop"] = int(variables["stop"])
 
 # Create a dictionary called pins to store the pin number, name, and pin state:
 pins = {
-   26 : {'name' : 'Water Heater', 'state' : GPIO.LOW},
-   20 : {'name' : 'Rele 2', 'state' : GPIO.LOW},
-   21 : {'name' : 'Rele 3', 'state' : GPIO.LOW}
+   26 : {'name' : 'Rele1', 'state' : GPIO.LOW},
+   20 : {'name' : 'Rele2', 'state' : GPIO.LOW},
+   21 : {'name' : 'Rele3', 'state' : GPIO.LOW}
    }
 
 # Setup each pins
@@ -133,16 +145,24 @@ def manual():
 @login_required
 def modify():
     hae_teho_from_file()
-    form = UpdateForm()
+    # Aki: form = UpdateForm()
+    # Rane: form = UpdateRaneForm()
+    form = UpdateRaneForm()
     reload_vars()
     #if request.method == 'POST' and form.validate_on_submit():
     if form.validate_on_submit():
         if request.method == 'POST':
             MYDICT["power"] = form.power.data
+            MYDICT["power1"] = form.power1.data
+            MYDICT["power2"] = form.power2.data
+            MYDICT["power3"] = form.power3.data
             MYDICT["start"] = form.start.data
             MYDICT["stop"] = form.stop.data
             my_data = {
                 "power": MYDICT["power"],
+                "power1": MYDICT["power1"],
+                "power2": MYDICT["power2"],
+                "power3": MYDICT["power3"],
                 "start": MYDICT["start"],
                 "stop": MYDICT["stop"]
                 }
@@ -159,10 +179,14 @@ def modify():
     templateData = {
        'message' : message,
        'power' : MYDICT["power"], 
+       'power1' : MYDICT["power1"], 
+       'power2' : MYDICT["power2"], 
+       'power3' : MYDICT["power3"], 
        'start' : MYDICT["start"], 
        'stop' : stop
        }
     return render_template('modify.html', title='Modify', form=form, teho=MYDICT["teho"], **templateData)
+    #return render_template('modify.html', title='Modify', form=form, teho=MYDICT["teho"])
 
 @app.route("/login", methods=['GET', 'POST'])
 def login():
@@ -208,20 +232,23 @@ def reload_vars():
     with open(MYDICT["varfile"]) as f:
         variables = json.load(f)
     MYDICT["power"] = int(variables['power'])
+    MYDICT["power1"] = int(variables['power1'])
+    MYDICT["power2"] = int(variables['power2'])
+    MYDICT["power3"] = int(variables['power3'])
     MYDICT["start"] = int(variables['start'])
     MYDICT["stop"] = int(variables['stop'])
 
-def update_vars():
-    ''''
-    Reload power, start and stoptimes from variables.json file
-    '''
-    data = {}
-    data['power']
-    data['power']
-    data['power']
-    with open(MYDICT["varfile"], 'w') as f:
-        json.dump(data, f)
-        close(f)
+#def update_vars():
+#    ''''
+#    Reload power, start and stoptimes from variables.json file
+#    '''
+#    data = {}
+#    data['power']
+#    data['power']
+#    data['power']
+#    with open(MYDICT["varfile"], 'w') as f:
+#        json.dump(data, f)
+#        close(f)
 def read_ac_power(data):
     ''''
     https://stackoverflow.com/questions/59802202/python-3-xml-data-to-variables
@@ -246,7 +273,6 @@ def hae_teho_from_file():
     with open(MYDICT["varfile1"]) as f1:
         varfile1 = json.load(f1)
     MYDICT['teho'] = varfile1["teho"]
-
 @app.route("/logout")
 def logout():
     logout_user() 

@@ -46,3 +46,8 @@ RuntimeDirectory=/home/pi/steca
 [Install]
 WantedBy=multi-user.target
 
+Fronius:
+r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=CumulationInverterData')
+r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=CommonInverterData')
+r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=3PInverterData')
+r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=MinMaxInverterData')

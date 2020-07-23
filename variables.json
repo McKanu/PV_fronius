@@ -1,5 +1,8 @@
 {
-    "power": 800,
-    "start": 14,
-    "stop": 17
+    "power": 600,
+    "power1": 1400,
+    "power2": 2000,
+    "power3": 2900,
+    "start": 8,
+    "stop": 21
 }
