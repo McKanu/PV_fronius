@@ -51,3 +51,19 @@ r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?
 r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=CommonInverterData')
 r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=3PInverterData')
 r = requests.get('http://192.168.8.104/solar_api/v1/GetInverterRealtimeData.cgi?Scope=Device&DeviceId=1&DataCollection=MinMaxInverterData')
+
+echo "# PV_fronius" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/McKanu/PV_fronius.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/McKanu/PV_fronius.git
+git push -u origin master
+
+git config -l
+git config --unset remote.origin.url
+git config --unset remote.origin.fetch
+
